@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    /* border : 2px solid; */
+    background-color: beige;
+    
+}
+
+.navbar .logo{
+    flex:3;
+}
+.navbar .menu {
+    flex:2;
+    display: flex;
+    justify-content: space-around;
+}
